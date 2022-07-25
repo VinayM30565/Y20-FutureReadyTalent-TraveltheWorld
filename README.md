@@ -27,9 +27,10 @@ The following are some of the primary attributes of Azure Static Web Apps that l
 
 6. Individual domains to brand your application.
 
-ProjectLink
+ProjectLink:
 
 Some Sample Images of my Project:
+
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/96165305/180717206-7ca70f4a-0fb0-4a1c-9854-8ab7fc60ff5f.png)
 ![Screenshot (287)](https://user-images.githubusercontent.com/96165305/180717215-156ee06f-8aa1-4b0f-b8b3-601eea005743.png)
